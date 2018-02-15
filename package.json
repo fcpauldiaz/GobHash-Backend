@@ -78,7 +78,7 @@
     "handlebars": "^4.0.10",
     "helmet": "3.8.2",
     "http-status": "^1.0.1",
-    "joi": "11.1.1",
+    "joi": "13.0.0",
     "js-yaml": "^3.8.2",
     "jsonwebtoken": "8.0.1",
     "mailcomposer": "^4.0.2",
